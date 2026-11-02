@@ -3,7 +3,7 @@
 
 ## STUDENT INFORMATION
 
-- **Student Name:** john Ezekiel 
+- **Student Name:** john Ezekiel
 - **Matriculation Number:** 25/16160
 - **Programme:** Software Engineering
 - **Course Code:** COS 201
