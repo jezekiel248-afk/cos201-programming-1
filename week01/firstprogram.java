@@ -22,8 +22,8 @@ public class FirstProgram {
         // Part 2: Student and course information
         System.out.println();
         System.out.println("------------ STUDENT INFORMATION ------------");
-        System.out.println("Student Name: Imade Isaac");
-        System.out.println("Matriculation Number: 25/17643");
+        System.out.println("Student Name: john Ezekiel ");
+        System.out.println("Matriculation Number: 25/16160");
         System.out.println("Programme: Software Engineering");
         System.out.println("Course Code: COS 201");
         System.out.println("Course Title: Computer Programming I");
